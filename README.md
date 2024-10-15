@@ -10,6 +10,7 @@ Estetyka i użyteczność: Projekt koncentruje się na intuicyjnym interfejsie u
 
 Wydajność: Dzięki zastosowaniu technologii React, strona działa płynnie, a czas ładowania jest minimalny, co zwiększa satysfakcję użytkowników.
 
+Link do podglądu https://jakubking98.github.io/BootstrapReact-Website/
 .
 This project involves creating a modern and responsive website using the Bootstrap framework and the React library. The goal was to build a user interface that is both aesthetically pleasing and functional, ensuring an excellent user experience across various devices.
 
@@ -22,6 +23,9 @@ React Components: Utilizing React allowed for the creation of dynamic components
 Aesthetics and Usability: The project focuses on an intuitive user interface, making navigation straightforward and enjoyable. The applied graphic styles are modern and visually appealing.
 
 Performance: By leveraging React technology, the website operates smoothly, with minimal loading times, enhancing user satisfaction.
+
+Link to preview https://jakubking98.github.io/BootstrapReact-Website/ 
+
 
 # React + Vite
 
