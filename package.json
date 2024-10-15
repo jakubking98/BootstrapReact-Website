@@ -29,5 +29,10 @@
     "gh-pages": "^6.2.0",
     "globals": "^15.9.0",
     "vite": "^5.4.8"
-  }
+  },
+  "description": "Projekt dotyczy stworzenia nowoczesnej i responsywnej strony internetowej przy użyciu frameworka Bootstrap oraz biblioteki React. Celem projektu było zbudowanie interfejsu użytkownika, który jest zarówno estetyczny, jak i funkcjonalny, co zapewnia doskonałe doświadczenia użytkownika na różnych urządzeniach.",
+  "main": "bootstrap.bundle.min.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

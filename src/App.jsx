@@ -1,6 +1,7 @@
 import "./App.css";
-import "./ConvertSCSS/main.css";
 import "./ConvertSCSS/font-awesome.css";
+import "./ConvertSCSS/bootstrap.min.css";
+import "./ConvertSCSS/main.css";
 import { Menu } from "./components/menu";
 import { Header } from "./components/Header";
 import { Partners } from "./components/Partners";
