@@ -11,7 +11,8 @@ Estetyka i użyteczność: Projekt koncentruje się na intuicyjnym interfejsie u
 Wydajność: Dzięki zastosowaniu technologii React, strona działa płynnie, a czas ładowania jest minimalny, co zwiększa satysfakcję użytkowników.
 
 Link do podglądu https://jakubking98.github.io/BootstrapReact-Website/
-.
+
+
 This project involves creating a modern and responsive website using the Bootstrap framework and the React library. The goal was to build a user interface that is both aesthetically pleasing and functional, ensuring an excellent user experience across various devices.
 
 Key Features of the Project:
